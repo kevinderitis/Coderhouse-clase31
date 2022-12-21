@@ -1,0 +1,5 @@
+[2022-12-20T20:31:03.173] [INFO] prod - Servidor express escuchando en el puerto 8080
+[2022-12-20T20:31:38.624] [INFO] prod - production
+[2022-12-20T20:31:38.625] [INFO] prod - Parámetros 1 y 2 correctos para la suma
+[2022-12-20T20:32:01.704] [ERROR] prod - Parámetros incorrectos para la suma
+[2022-12-20T20:32:19.887] [WARN] prod - Ruta GET /sum no implementada

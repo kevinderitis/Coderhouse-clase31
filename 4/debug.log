@@ -1,0 +1,7 @@
+{"level":30,"time":1671580559288,"pid":6196,"hostname":"DESKTOP-PGVINBB","msg":"Servidor express escuchando en el puerto 8080"}
+{"level":40,"time":1671580569784,"pid":6196,"hostname":"DESKTOP-PGVINBB","msg":"Ruta /sss GET no implementada"}
+{"level":30,"time":1671580575803,"pid":6196,"hostname":"DESKTOP-PGVINBB","msg":"Parámetros 1 y 2 correctos para la suma"}
+{"level":50,"time":1671580580683,"pid":6196,"hostname":"DESKTOP-PGVINBB","msg":"Parámetros incorrectos para la suma"}
+{"level":30,"time":1671580695759,"pid":19800,"hostname":"DESKTOP-PGVINBB","msg":"Servidor express escuchando en el puerto 8080"}
+{"level":30,"time":1671580707070,"pid":19800,"hostname":"DESKTOP-PGVINBB","a":"nueva","msg":"hola mundo child"}
+{"level":50,"time":1671580707070,"pid":19800,"hostname":"DESKTOP-PGVINBB","a":"nueva","msg":"Hola error"}
